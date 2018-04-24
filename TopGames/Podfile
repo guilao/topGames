@@ -1,0 +1,13 @@
+platform :ios, '10.0'
+
+target 'TopGames' do
+  use_frameworks!
+	pod 'Alamofire'
+	pod 'AlamofireImage'
+	pod 'lottie-ios'
+	pod 'Freddy'
+	pod 'ReachabilitySwift'
+
+end
+
+
